@@ -1,0 +1,12 @@
+Sli3DR
+
+20mm Lengths for Prototype
+
+290mm x 6
+300mm x 4
+500mm x 2 (430mm to top front)
+650mm x 2
+
+Hested Bed
+189mm x 2
+290mm x 2
